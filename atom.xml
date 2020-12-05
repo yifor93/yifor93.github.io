@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://yifor93.github.io</id>
+    <id>https://huili.love</id>
     <title>甜蜜小屋</title>
-    <updated>2020-12-05T14:27:48.326Z</updated>
+    <updated>2020-12-05T18:57:17.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://yifor93.github.io"/>
-    <link rel="self" href="https://yifor93.github.io/atom.xml"/>
+    <link rel="alternate" href="https://huili.love"/>
+    <link rel="self" href="https://huili.love/atom.xml"/>
     <subtitle>爱你3000遍</subtitle>
-    <logo>https://yifor93.github.io/images/avatar.png</logo>
-    <icon>https://yifor93.github.io/favicon.ico</icon>
+    <logo>https://huili.love/images/avatar.png</logo>
+    <icon>https://huili.love/favicon.ico</icon>
     <rights>All rights reserved 2020, 甜蜜小屋</rights>
     <entry>
         <title type="html"><![CDATA[Hello 惠丽]]></title>
-        <id>https://yifor93.github.io/post/hello-huili/</id>
-        <link href="https://yifor93.github.io/post/hello-huili/">
+        <id>https://huili.love/post/hello-huili/</id>
+        <link href="https://huili.love/post/hello-huili/">
         </link>
         <updated>2020-12-04T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>2020/08/28</p>
